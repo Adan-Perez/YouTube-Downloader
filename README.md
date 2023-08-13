@@ -31,3 +31,5 @@ ts-node app.ts
 ```bash
 npm install -g ts-node typescript
 ```
+# Aviso Legal ⚠
+**Este proyecto está hecho 100% con fines educativos y de aprendizaje. Cualquier mal uso de esta aplicación o código es responsabilidad del usuario.**
