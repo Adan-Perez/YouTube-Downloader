@@ -1,20 +1,60 @@
-## Documentación utilizada
+# YOUTUBE VIDEO DOWNLOADER - Node.js + ytdl-core 
+**Author/Autor**: [Adan-Perez](https://github.com/Adan-Perez)
 
-- [Documentación de ytdl-core](https://github.com/fent/node-ytdl-core)
-- [Documentación de FS](https://nodejs.org/api/fs.html)
-- [Documentación de Readline](https://nodejs.org/api/readline.html)
+> EN
 
-## Instalación
+Youtube video downloader using the ytdl-core library. Made in node.js with Typescript.
 
-Para instalar las dependencias del proyecto, ejecutar el siguiente comando:
+# Installation 🚀
+
+### Install the dependencies
 
 ```bash
 npm install
 ```
 
-## Ejecución
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
 
-Utilizar el siguiente comando para ejecutar el programa:
+Dev mode:
+
+```bash
+npm run dev
+```
+
+or
+
+```bash
+ts-node app.ts
+```
+
+## Make sure you have ts-node and typescript installed
+
+```bash
+npm install -g ts-node typescript
+```
+ 
+
+# Legal Warning ⚠
+
+**This project is made 100% for educational and learning purposes. Any misuse of this application or code is the responsibility of the user.**
+
+---
+
+> ES
+
+Descargador de vídeos de Youtube haciendo uso de la librería ytdl-core. Hecho en node.js con Typescript.
+
+# Instalación 🚀
+
+### Instalar las dependencias
+
+```bash
+npm install
+```
+
+### Iniciar la aplicación en modo de desarrollo (recarga de código en desarrollo, informes de errores, etc.)
+
+Dev mode:
 
 ```bash
 npm run dev
@@ -31,5 +71,22 @@ ts-node app.ts
 ```bash
 npm install -g ts-node typescript
 ```
+ 
+
 # Aviso Legal ⚠
+
 **Este proyecto está hecho 100% con fines educativos y de aprendizaje. Cualquier mal uso de esta aplicación o código es responsabilidad del usuario.**
+
+---
+
+## Docs 📚
+
+- [ytdl-core](https://github.com/fent/node-ytdl-core)
+- [node/fs](https://nodejs.org/api/fs.html)
+- [node/readline](https://nodejs.org/api/readline.html)
+
+<p align="center" 
+    style="width: 100%; height: 100%;"
+>
+  <img src="https://storage.googleapis.com/sticker-prod/Wren242GEdiHYWm6ZGJp/5.png" alt="Texto alternativo de la imagen">
+</p>
